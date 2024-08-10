@@ -1,4 +1,46 @@
 {
+  "tradebook": [
+    {
+      "id": 301,
+      "ticker_symbol": "TIN",
+      "asset_name": "Tech Innovators Inc.",
+      "category": "Stock",
+      "date": "2023-08-02",
+      "action": "BUY",
+      "volume": 100,
+      "amount": 15000.00
+    },
+    {
+      "id": 302,
+      "ticker_symbol": "GEC",
+      "asset_name": "Green Energy Corp.",
+      "category": "Stock",
+      "date": "2023-08-04",
+      "action": "BUY",
+      "volume": 50,
+      "amount": 4700.00
+    },
+    {
+      "id": 303,
+      "ticker_symbol": "US10Y",
+      "asset_name": "U.S. Treasury 10Y",
+      "category": "Bond",
+      "date": "2023-08-02",
+      "action": "BUY",
+      "volume": 1,
+      "amount": 1025.00
+    },
+    {
+      "id": 304,
+      "ticker_symbol": "CXYZ2025",
+      "asset_name": "Corporate XYZ 2025",
+      "category": "Bond",
+      "date": "2023-08-06",
+      "action": "BUY",
+      "volume": 1,
+      "amount": 987.50
+    }
+  ],
     "cashflowbook": [
     {
       "id": 401,
