@@ -1,0 +1,36 @@
+{
+    "cashflowbook": [
+    {
+      "id": 401,
+      "ticker_symbol": "TIN",
+      "date": "2023-08-10",
+      "asset_name": "Tech Innovators Inc.",
+      "realized_pnl": 500.00,
+      "unrealized_pnl": 530.00
+    },
+    {
+      "id": 402,
+      "ticker_symbol": "GEC",
+      "date": "2023-08-11",
+      "asset_name": "Green Energy Corp.",
+      "realized_pnl": -200.00,
+      "unrealized_pnl": -150.00
+    },
+    {
+      "id": 403,
+      "ticker_symbol": "US10Y",
+      "date": "2023-08-12",
+      "asset_name": "U.S. Treasury 10Y",
+      "realized_pnl": 0.00,
+      "unrealized_pnl": 25.00
+    },
+    {
+      "id": 404,
+      "ticker_symbol": "CXYZ2025",
+      "date": "2023-08-13",
+      "asset_name": "Corporate XYZ 2025",
+      "realized_pnl": -12.50,
+      "unrealized_pnl": 10.00
+    }
+  ]
+}
